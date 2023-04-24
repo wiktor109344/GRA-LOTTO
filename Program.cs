@@ -240,5 +240,4 @@ namespace LOTTO
         }
     }
 }
-//Do zaliczenia projektu, niezbędne jest przerzucenie, za pomomocą narzędzi do IDE projektu na serwer https
-//Projekt przedtawiamy na koniec semestru,konsultacjach lub LAB'ach
+
